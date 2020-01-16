@@ -258,7 +258,7 @@ Collection*.
 ```
 
 
-Un part  très importante des  données disponibles  sur la planète  sont stockées
+Une part  très importante des  données disponibles  sur la planète  sont stockées
 sous un format similaire, à savoir sous la forme `clé : valeur`.
 
 Par exemple, `"lat":  51.4736073` donne la latitude du lieu,  `"name": "The Type
